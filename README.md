@@ -2,7 +2,7 @@
 
 This project has ansible playbooks for:
 
-* Elixr Build Server - it has installed Erlang, Elixir and nodejs. Basically, all what is required to compile the Phoenix Framework application.
+* Elixir Build Server - it has installed Erlang, Elixir and nodejs. Basically, all what is required to compile the Phoenix Framework application.
 * Phoenix Website - it is a playbook to provision server with installed PostgreSQL and configured nginx and Let's Encrypt for SSL. There is no Erlang/Elixir on this server because we will deploy there only compiled Phoenix application.
 
 __You can learn more about the project from this blog post__
